@@ -1,4 +1,5 @@
 
 nome = "Maria"
+idade = 20
 
-print('Olá mundo', nome)
+print(f'Seu nome é {nome} e a sua idade é {idade}!')
