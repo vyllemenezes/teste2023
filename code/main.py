@@ -1,1 +1,4 @@
-print('Olá mundo')
+
+nome = "Maria"
+
+print('Olá mundo', nome)
